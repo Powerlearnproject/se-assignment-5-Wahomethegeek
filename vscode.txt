@@ -1,0 +1,9 @@
+
+Installation of VS Code
+To download and install Visual Studio Code (VS Code) on a Windows 11 operating system, start by visiting the official VS Code website. Click the "Download for Windows" button to get the installer. Once the download is complete, run the installer and follow the prompts. Accept the license agreement, choose the installation location, and select any additional tasks such as creating a desktop icon or adding VS Code to the PATH. There are no specific prerequisites for installing VS Code, but having the latest version of Windows and an internet connection for downloading extensions is recommended.
+
+First-time Setup
+After installing VS Code, there are several initial configurations and settings to adjust for an optimal coding environment. First, configure your user settings by navigating to File > Preferences > Settings or using the keyboard shortcut Ctrl + ,. Customize settings such as the theme, font size, and line numbers. Installing extensions is crucial for enhancing functionality; popular extensions include Python, ESLint, Prettier, and GitLens. To install extensions, click on the Extensions icon in the Activity Bar and search for the desired extensions.
+
+User Interface Overview
+The main components of the VS Code user interface include the Activity Bar, Side Bar, Editor Group, and Status Bar. The Activity Bar on the left provides access to various views like Explorer, Search, Source Control, Run and Debug, and Extensions. The Side Bar displays different panels depending on the selected view, such as the file explorer or search results. The Editor Group is the central area where you edit your files, supporting multiple tabs and split views. The Status Bar at the bottom shows information about the current file, such as encoding, line endings, and syntax errors, and provides shortcuts to important settings.
